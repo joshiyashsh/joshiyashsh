@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Yash Joshi</h1>
 
 <h3 align="center">
-AI & Machine Learning Intern <br>
+AI & Machine Learning <br>
 Silver Oak University | AI/ML Enthusiast
 </h3>
 
